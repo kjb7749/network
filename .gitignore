@@ -1,3 +1,8 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/c++
+# Edit at https://www.toptal.com/developers/gitignore?templates=c++
+
+### C++ ###
 # Prerequisites
 *.d
 
@@ -30,3 +35,12 @@
 *.exe
 *.out
 *.app
+
+Debug/
+debug/
+Release/
+release/
+x64/
+.vs
+
+# End of https://www.toptal.com/developers/gitignore/api/c++
