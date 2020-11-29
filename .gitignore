@@ -122,5 +122,6 @@ crashlytics-build.properties
 InitTestScene*.unity.meta
 InitTestScene*.unity
 
+*/Library/
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
